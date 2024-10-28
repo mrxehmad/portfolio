@@ -25,7 +25,7 @@
 ---
 
 <p align="center">
-  <img alt="Layout" src="">
+  <img alt="Layout" src="https://github.com/mrxehmad/portfolio/blob/main/image.png?raw=true">
 </p>
 
 ---
